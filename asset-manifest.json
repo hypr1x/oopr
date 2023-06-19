@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oopr/static/css/main.018d6b40.css",
+    "main.js": "/oopr/static/js/main.f7625c35.js",
+    "index.html": "/oopr/index.html",
+    "main.018d6b40.css.map": "/oopr/static/css/main.018d6b40.css.map",
+    "main.f7625c35.js.map": "/oopr/static/js/main.f7625c35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018d6b40.css",
+    "static/js/main.f7625c35.js"
+  ]
+}
